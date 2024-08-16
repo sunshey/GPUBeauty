@@ -1,4 +1,4 @@
-在[gpupixel](https://github.com/pixpark/gpupixel/tree/main)基础上完善了`GPUPixelSourceImage`功能，包括美颜，瘦脸、大眼睛功能。具体使用还是参考`GPUPixel`使用方法
+在[gpupixel](https://github.com/pixpark/gpupixel/tree/main)基础上完善了`GPUPixelSourceImage`功能，包括美颜，瘦脸、大眼等功能。具体使用还是参考`GPUPixel`使用方法
 
 
 
